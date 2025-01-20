@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&text=&fontSize=75&color=0:d9f1f1,100:d1c4e9&section=header&fontColor=1e1e1e&stroke=b678c4)
 
-<br/>
-
 ## 📚 Tech Stack
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
