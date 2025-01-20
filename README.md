@@ -2,7 +2,9 @@
 
 <img src="https://github.com/yim0327/yim0327/blob/output/github-contribution-grid-snake.svg"/>
 
-## 📚 Tech Stack
+<br/>
+
+# 📚 Tech Stack
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,7 +42,8 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 <br/>
+<br/>
 
-## 📊 Status
+# 📊 Status
 ![JY's GitHub stats](https://github-readme-stats.vercel.app/api?username=yim0327&show_icons=true&theme=material-palenight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yim0327)](https://solved.ac/yim0327/)
