@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&text=&fontSize=75&color=0:d9f1f1,100:d1c4e9&section=header&fontColor=1e1e1e&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontSize=75&color=0:d9f1f1,100:d1c4e9&section=header&fontColor=746d7a)
+
+<img src="https://github.com/yim0327/yim0327/blob/output/github-contribution-grid-snake.svg"/>
 
 ## 📚 Tech Stack
 ### Languages
@@ -42,7 +44,3 @@
 ## 📊 Status
 ![JY's GitHub stats](https://github-readme-stats.vercel.app/api?username=yim0327&show_icons=true&theme=material-palenight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yim0327)](https://solved.ac/yim0327/)
-
-<br/>
-
-<img src="https://github.com/yim0327/yim0327/blob/output/github-contribution-grid-snake.svg"/>
