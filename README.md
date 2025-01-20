@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Collaboration & Communication
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-2a2c30?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=gray)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -44,6 +44,6 @@
 <br/>
 <br/>
 
-# 📊 Status
+# 📊 Stats
 ![JY's GitHub stats](https://github-readme-stats.vercel.app/api?username=yim0327&show_icons=true&theme=material-palenight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yim0327)](https://solved.ac/yim0327/)
