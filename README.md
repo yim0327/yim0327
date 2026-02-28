@@ -40,15 +40,23 @@
 <br/>
 
 # 📊 Stats
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <a href="https://solved.ac/yim0327">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yim0327" height="165" />
       </a>
     </td>
-    <td valign="top">
+    <td valign="top" >
       <img src="https://raw.githubusercontent.com/yim0327/Programmers_Badge_Generator/main/result/result.svg" height="165" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 0 15px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yim0327&theme=material-palenight&hide_border=false" alt="streak stats" width="420"/>
     </td>
   </tr>
 </table>
