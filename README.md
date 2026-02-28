@@ -40,8 +40,18 @@
 <br/>
 
 # 📊 Stats
-![JY's GitHub stats](https://github-readme-stats.vercel.app/api?username=yim0327&show_icons=true&theme=material-palenight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yim0327)](https://solved.ac/yim0327/)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://solved.ac/yim0327">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yim0327" height="165" />
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/yim0327/Programmers_Badge_Generator/main/result/result.svg" height="165" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
